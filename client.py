@@ -5,7 +5,11 @@
 # A barebones VCO API client
 #
 # Dependencies:
-# The only library required to use this tool is the Python requests library, which can be installed with pip
+# 
+# The only library required to use this tool is the Python requests library, which can be installed with pip, e.g.
+# ```
+#     pip install requests
+# ```
 #
 # Examples:
 #
